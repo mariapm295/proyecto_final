@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.10.1)  20 OCT 2018 00:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.10.1)  21 OCT 2018 13:28
 entering extended mode
 **./M6_Pozo_Montoro_Maria.tex
 (M6_Pozo_Montoro_Maria.tex
@@ -529,6 +529,70 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen108
 \Gin@req@width=\dimen109
 )
+("C:\Users\María\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
+ty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\María\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\María\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen110
+))
+("C:\Users\María\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen111
+)
+("C:\Users\María\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count100
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count101
+\leftroot@=\count102
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count103
+\DOTSCASE@=\count104
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen112
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count105
+\c@MaxMatrixCols=\count106
+\dotsspace@=\muskip11
+\c@parentequation=\count107
+\dspbrk@lvl=\count108
+\tag@help=\toks19
+\row@=\count109
+\column@=\count110
+\maxfields@=\count111
+\andhelp@=\toks20
+\eqnshift@=\dimen113
+\alignsep@=\dimen114
+\tagshift@=\dimen115
+\tagwidth@=\dimen116
+\totwidth@=\dimen117
+\lineht@=\dimen118
+\@envbody=\toks21
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
 ("C:\Users\María\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.s
 ty"
 Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
@@ -537,54 +601,63 @@ Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 sty"
 Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen110
-\captionmargin@=\dimen111
-\captionwidth=\dimen112
-\caption@tempdima=\dimen113
-\caption@indent=\dimen114
-\caption@parindent=\dimen115
-\caption@hangindent=\dimen116
+\captionmargin=\dimen119
+\captionmargin@=\dimen120
+\captionwidth=\dimen121
+\caption@tempdima=\dimen122
+\caption@indent=\dimen123
+\caption@parindent=\dimen124
+\caption@hangindent=\dimen125
 )
-\c@caption@flags=\count100
-\c@ContinuedFloat=\count101
+\c@caption@flags=\count112
+\c@ContinuedFloat=\count113
 Package caption Info: hyperref package is loaded.
 )
 ("C:\Users\María\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaptio
 n.sty"
 Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
-\c@subfigure=\count102
-\c@subtable=\count103
+\c@subfigure=\count114
+\c@subtable=\count115
+)
+("C:\Users\María\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.s
+ty"
+\wrapoverhang=\dimen126
+\WF@size=\dimen127
+\c@WF@wrappedlines=\count116
+\WF@box=\box28
+\WF@everypar=\toks23
+Package: wrapfig 2003/01/31  v 3.6
 )
 ("C:\Users\María\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titling\titling.s
 ty"
 Package: titling 2009/09/04 v2.1d maketitle typesetting
-\thanksmarkwidth=\skip44
-\thanksmargin=\skip45
-\droptitle=\skip46
+\thanksmarkwidth=\skip47
+\thanksmargin=\skip48
+\droptitle=\skip49
 ) (M6_Pozo_Montoro_Maria.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
 \openout1 = `M6_Pozo_Montoro_Maria.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
-\AtBeginShipoutBox=\box26
-Package hyperref Info: Link coloring OFF on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+\AtBeginShipoutBox=\box29
+Package hyperref Info: Link coloring OFF on input line 25.
 
 ("C:\Users\María\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.
 sty"
@@ -594,11 +667,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 lestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count104
+\c@section@level=\count117
 )
-LaTeX Info: Redefining \ref on input line 24.
-LaTeX Info: Redefining \pageref on input line 24.
-LaTeX Info: Redefining \nameref on input line 24.
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
  (M6_Pozo_Montoro_Maria.out) (M6_Pozo_Montoro_Maria.out)
 \@outlinefile=\write3
 \openout3 = `M6_Pozo_Montoro_Maria.out'.
@@ -607,17 +680,17 @@ LaTeX Info: Redefining \nameref on input line 24.
 ("C:\Users\María\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
 kii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count105
-\scratchdimen=\dimen117
-\scratchbox=\box27
-\nofMPsegments=\count106
-\nofMParguments=\count107
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count108
-\MPscratchDim=\dimen118
-\MPnumerator=\count109
-\makeMPintoPDFobject=\count110
-\everyMPtoPDFconversion=\toks19
+\scratchcounter=\count118
+\scratchdimen=\dimen128
+\scratchbox=\box30
+\nofMPsegments=\count119
+\nofMParguments=\count120
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count121
+\MPscratchDim=\dimen129
+\MPnumerator=\count122
+\makeMPintoPDFobject=\count123
+\everyMPtoPDFconversion=\toks25
 )
 ("C:\Users\María\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
 -base.sty"
@@ -635,846 +708,605 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 26.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 26.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 26.
+<logoUGR.jpg, id=39, 903.375pt x 903.375pt>
+File: logoUGR.jpg Graphic file (type jpg)
+<use logoUGR.jpg>
+Package pdftex.def Info: logoUGR.jpg  used on input line 28.
+(pdftex.def)             Requested size: 288.0011pt x 287.99693pt.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 27.
+(babel)             in language append on input line 31.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 27.
+(babel)             in language append on input line 31.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 27.
+(babel)             in language append on input line 31.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 27.
+(babel)             in language append on input line 31.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 27.
+(babel)             in language append on input line 31.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 27.
+(babel)             in language append on input line 31.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 27.
+(babel)             in language append on input line 31.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 27.
+(babel)             in language append on input line 31.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 27.
+(babel)             in language append on input line 31.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 27.
+(babel)             in language append on input line 31.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 27.
+(babel)             in language append on input line 31.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 27.
+(babel)             in language append on input line 31.
  [1
 
-{C:/Users/María/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 30.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 30.
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--32
+{C:/Users/María/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logoUGR.
+jpg>]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 35.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 35.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 35.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 35.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 35.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 35.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 35.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 35.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 35.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 35.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 35.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 35.
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--32
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--32
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 37.
+(babel)             in language append on input line 45.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 37.
+(babel)             in language append on input line 45.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 37.
+(babel)             in language append on input line 45.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 37.
+(babel)             in language append on input line 45.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 37.
+(babel)             in language append on input line 45.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 37.
+(babel)             in language append on input line 45.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 37.
+(babel)             in language append on input line 45.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 37.
+(babel)             in language append on input line 45.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 37.
+(babel)             in language append on input line 45.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 37.
+(babel)             in language append on input line 45.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 37.
+(babel)             in language append on input line 45.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 37.
-[2]
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 40.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 40.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 40.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 40.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 40.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 40.
-
-! Misplaced alignment tab character &.
-l.41 ...iburones y 630 de rayas (Elbert, Fowler, &
-                                                   Compagno, 2013). El gran ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.41 ...harhinus amblyrhynchos (Wetherbee, Crow, &
-                                                   Lowe, 1997) hasta el árt...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.41 ...d como Centroscymnus coelolepis (Stevens &
-                                                   Correia, 2003). Algunas e...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.41 ...Potamotrygon spp. o Glyphis spp. (Martin &
-                                                   Mackinlay, 2004).
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.42 ... ser depredados (Heithaus, 2004; Ritchie &
-                                                   Johnson, 2009). En la act...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.42 ... (Baum et al., 2003; Bascompte, Melián, &
-                                                   Sala, 2005). Así mismo, ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.42 ...otros depredadores apicales (Friedlander &
-                                                   DeMartini, 2002; Bradley ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.45 ... niveles tróficos intermedios (Jacobsen &
-                                                   Bennett, 2013; Frisch et ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.47 ...de la pesca de elasmobranquios (Shiffman &
-                                                   Hammerschlag, 2016). Con ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.47 ... 2012; Juhel et al., 2018; Speed, Cappo, &
-                                                   Meekan, 2018). Sin embarg...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.47 ...intos estadios de vida (Schlaff, Heupel, &
-                                                   Simpfendorfer, 2014).
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.48 ...bles en tiburones y rayas (Knip, Heupel, &
-                                                   Simpfendorfer, 2010; Heup...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.48 ...p, Heupel, & Simpfendorfer, 2010; Heupel &
-                                                   Simpfendorfer, 2014). Sin...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.49 ...sociados más fuertes (Fulton, Bellwood, &
-                                                   Wainwright, 2005). Estudi...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.49 ...aje se ve disminuida (Dominici-Arosemena &
-                                                   Wolff, 2005; Fulton & Bel...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.49 ...Dominici-Arosemena & Wolff, 2005; Fulton &
-                                                   Bellwood, 2005). Por otro...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.49 ...cida por el oleaje (Hubbard, 1988; Hongo &
-                                                   Kayanne, 2009; Burt et al...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.50 ...es de elasmobranquios (Carlson, Goldman, &
-                                                   Lowe, 2004), no somos con...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.50 ...tch et al., 2005; Heupel, Simpfendorfer, &
-                                                   Fitzpatrick, 2010; Rizzar...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.50 ...r, & Fitzpatrick, 2010; Rizzari, Frisch, &
-                                                   Magnenat, 2014; Tickler e...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.51 ...humanas (Sydeman et al., 2014; Takahashi &
-                                                   Watanabe, 2016). Así mis...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 52.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 52.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 52.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 52.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 52.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 52.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 52.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 52.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 52.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 52.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 52.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 45.
 [3]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 48.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 48.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 48.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 48.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 48.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 48.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 53.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 53.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 53.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 53.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 53.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 53.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 53.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 53.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 53.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 53.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 53.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 53.
  [4]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 59.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 59.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 59.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 59.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 59.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 59.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 59.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 59.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 59.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 59.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 59.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 52.
+(babel)             in language append on input line 59.
  [5]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 57.
+(babel)             in language append on input line 64.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 57.
+(babel)             in language append on input line 64.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 57.
+(babel)             in language append on input line 64.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 57.
+(babel)             in language append on input line 64.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 57.
+(babel)             in language append on input line 64.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 57.
+(babel)             in language append on input line 64.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 59.
+(babel)             in language append on input line 66.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 59.
+(babel)             in language append on input line 66.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 59.
+(babel)             in language append on input line 66.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 59.
+(babel)             in language append on input line 66.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 59.
+(babel)             in language append on input line 66.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 59.
-<Mapa_Nueva_Caledonia.png, id=70, 225.351pt x 127.1295pt>
+(babel)             in language append on input line 66.
+<Mapa_Nueva_Caledonia.png, id=127, 225.351pt x 127.1295pt>
 File: Mapa_Nueva_Caledonia.png Graphic file (type png)
 <use Mapa_Nueva_Caledonia.png>
-Package pdftex.def Info: Mapa_Nueva_Caledonia.png  used on input line 63.
+Package pdftex.def Info: Mapa_Nueva_Caledonia.png  used on input line 70.
 (pdftex.def)             Requested size: 180.0pt x 101.5466pt.
-<Mapa_area_de_muestreo.jpg, id=71, 226.3365pt x 126.4725pt>
+<Mapa_area_de_muestreo.jpg, id=128, 226.3365pt x 126.4725pt>
 File: Mapa_area_de_muestreo.jpg Graphic file (type jpg)
 <use Mapa_area_de_muestreo.jpg>
-Package pdftex.def Info: Mapa_area_de_muestreo.jpg  used on input line 68.
+Package pdftex.def Info: Mapa_area_de_muestreo.jpg  used on input line 75.
 (pdftex.def)             Requested size: 180.0pt x 100.58374pt.
 
-Overfull \hbox (2.43333pt too wide) in paragraph at lines 62--72
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 69--79
 [][] [] 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 76.
-
-! Package inputenc Error: Unicode char ° (U+B0)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...iva de estas especies en 2013 (decreto n°
-                                                  2013-1007/GNC) proporciona...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Misplaced alignment tab character &.
-l.77 ...rculación de Walker (Ouillon, Douillet, &
-                                                   Andréfouët, 2004; Xiang...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.77 ...Corriente de Nueva Caledonia Sur (Hénin &
-                                                   Cresswell, 2005). La temp...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.77 ...a lo largo del año (Vega, Marchesiello, &
-                                                   Lefèvre, 2006). Durante ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
-! Package inputenc Error: Unicode char ± (U+B1)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.77 ...s distintas zonas con una media de 24,5 ±
-                                                   0,5 ºC.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 78.
+(babel)             in language append on input line 85.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 78.
+(babel)             in language append on input line 85.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 78.
+(babel)             in language append on input line 85.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 78.
+(babel)             in language append on input line 85.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 78.
+(babel)             in language append on input line 85.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 78.
+(babel)             in language append on input line 85.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 78.
+(babel)             in language append on input line 85.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 78.
+(babel)             in language append on input line 85.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 78.
+(babel)             in language append on input line 85.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 78.
+(babel)             in language append on input line 85.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 78.
+(babel)             in language append on input line 85.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 78.
+(babel)             in language append on input line 85.
 [6 <./Mapa_Nueva_Caledonia.png> <./Mapa_area_de_muestreo.jpg>]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 79.
+(babel)             in language append on input line 86.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 79.
+(babel)             in language append on input line 86.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 79.
+(babel)             in language append on input line 86.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 79.
+(babel)             in language append on input line 86.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 79.
+(babel)             in language append on input line 86.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 79.
+(babel)             in language append on input line 86.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 82.
+(babel)             in language append on input line 89.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 82.
+(babel)             in language append on input line 89.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 82.
+(babel)             in language append on input line 89.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 82.
+(babel)             in language append on input line 89.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 82.
+(babel)             in language append on input line 89.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 82.
+(babel)             in language append on input line 89.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 91.
+ [7]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 91.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 94.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 94.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 94.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 94.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 94.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 94.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 97.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 97.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 97.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 97.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 97.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 97.
 
-! Misplaced alignment tab character &.
-l.83 ... de 1958 (Priam, 1964; Maillet, Monzier, &
-                                                   Lefevre, 1986). La isla c...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
-! Misplaced alignment tab character &.
-l.83 ...turbidez y las emisiones de gases (Roman &
-                                                   Pelletier, 2014). Forma p...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+LaTeX Warning: Citation `Kempster2016 Speed2018' on page 8 undefined on input l
+ine 98.
 
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 84.
-[7]
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 84.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 87.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 87.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 87.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 87.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 87.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 87.
+<BRUV.png, id=147, 149.05687pt x 221.82875pt>
+File: BRUV.png Graphic file (type png)
+<use BRUV.png>
+Package pdftex.def Info: BRUV.png  used on input line 101.
+(pdftex.def)             Requested size: 180.0pt x 267.8957pt.
 
-! Misplaced alignment tab character &.
-l.88 ...C e incrementan la productividad (Hénin &
-                                                   Cresswell, 2005; Neveux e...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+Underfull \hbox (badness 1264) in paragraph at lines 102--102
+[]\OT1/cmr/m/n/10.95 Figura 2: |\OT1/cmr/bx/n/10.95 Arri-ba: \OT1/cmr/m/n/10.95
+ Di-se~no BRUV.
+ []
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 90.
+(babel)             in language append on input line 104.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 90.
+(babel)             in language append on input line 104.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 90.
+(babel)             in language append on input line 104.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 90.
+(babel)             in language append on input line 104.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 90.
+(babel)             in language append on input line 104.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 90.
-! Misplaced alignment tab character &.
-l.91 ...oma de datos en campo (Ghazilou, Shokri, &
-                                                   Gladstone, 2016).  Así m...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.91 ...e individuos para estas especies (Meekan &
-                                                   Cappo, 2004; Brooks et al...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.94 ...cámara reiteradas veces (Cappo, Harvey, &
-                                                   Shortis, 2006). La identi...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
+(babel)             in language append on input line 104.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 104.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 104.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 104.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 104.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 104.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 110.
-Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 110.
-Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 110.
-Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 110.
-Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 110.
-Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 110.
-Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 104.
 [8]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 123.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 123.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 123.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 123.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 123.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 123.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 123.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 123.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 123.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 123.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 110.
+(babel)             in language append on input line 123.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 110.
- [9]
+(babel)             in language append on input line 123.
+ [9 <./BRUV.png>]
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 111.
+(babel)             in language append on input line 124.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 111.
+(babel)             in language append on input line 124.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 111.
+(babel)             in language append on input line 124.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 111.
+(babel)             in language append on input line 124.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 111.
+(babel)             in language append on input line 124.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 111.
-
-! Misplaced alignment tab character &.
-l.114 ...atos con distribución asimétrica (Yap &
-                                                   Sim, 2011). Así mismo la...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.115 ... test Scheirer-Ray-Hare (Scheirer, Ray, &
-                                                   Hare, 1976). Este test se...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.115 ...e comparaciones (Abdi, 2010; MacFarland &
-                                                   Yates, 2016).
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
+(babel)             in language append on input line 124.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 116.
+(babel)             in language append on input line 129.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 116.
+(babel)             in language append on input line 129.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 116.
+(babel)             in language append on input line 129.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 116.
+(babel)             in language append on input line 129.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 116.
+(babel)             in language append on input line 129.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 116.
+(babel)             in language append on input line 129.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 116.
+(babel)             in language append on input line 129.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 116.
+(babel)             in language append on input line 129.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 116.
+(babel)             in language append on input line 129.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 116.
+(babel)             in language append on input line 129.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 116.
+(babel)             in language append on input line 129.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 116.
-[10]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
+(babel)             in language append on input line 129.
+ [10] (M6_Pozo_Montoro_Maria.bbl
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 128.
+(babel)             in language append on input line 14.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 128.
+(babel)             in language append on input line 14.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 128.
+(babel)             in language append on input line 14.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 128.
+(babel)             in language append on input line 14.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 128.
+(babel)             in language append on input line 14.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 128.
+(babel)             in language append on input line 14.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language append on input line 128.
+(babel)             in language append on input line 14.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language append on input line 128.
+(babel)             in language append on input line 14.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language append on input line 128.
+(babel)             in language append on input line 14.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language append on input line 128.
+(babel)             in language append on input line 14.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language append on input line 128.
+(babel)             in language append on input line 14.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language append on input line 128.
+(babel)             in language append on input line 14.
  [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 87.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 87.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 87.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 87.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 87.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 87.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 87.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 87.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 87.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 87.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 87.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 87.
+ [12]
+Underfull \hbox (badness 1062) in paragraph at lines 98--143
+[]\OT1/cmr/m/n/10.95 Michael Hoff-mann, Craig Hilton-Taylor, Ariad-ne An-gu-lo,
+ Mo-ni-ka
+ []
+
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 143.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 143.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 143.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 143.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 143.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 143.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 143.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 143.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 143.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 143.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 143.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 143.
+[13]
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 181.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 181.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 181.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 181.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 181.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 181.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 181.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 181.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 181.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 181.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 181.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 181.
+ [14])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 150.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 150.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 150.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 150.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 150.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 150.
+Package babel Info: Redefining spanish shorthand <<
+(babel)             in language append on input line 150.
+Package babel Info: Redefining spanish shorthand >>
+(babel)             in language append on input line 150.
+Package babel Info: Redefining spanish shorthand "=
+(babel)             in language append on input line 150.
+Package babel Info: Redefining spanish shorthand "~
+(babel)             in language append on input line 150.
+Package babel Info: Redefining spanish shorthand "!
+(babel)             in language append on input line 150.
+Package babel Info: Redefining spanish shorthand "?
+(babel)             in language append on input line 150.
+ [15]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
  (M6_Pozo_Montoro_Maria.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 128.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
 Package rerunfilecheck Info: File `M6_Pozo_Montoro_Maria.out' has not changed.
 (rerunfilecheck)             Checksum: 65360E174EC95F5E14D6FFEAFB2D44B8;628.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 128.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 150.
  ) 
 Here is how much of TeX's memory you used:
- 7468 strings out of 493305
- 113336 string characters out of 3129367
- 229710 words of memory out of 3000000
- 10930 multiletter control sequences out of 15000+200000
- 9633 words of font info for 34 fonts, out of 3000000 for 9000
+ 8208 strings out of 493305
+ 122342 string characters out of 3129367
+ 226385 words of memory out of 3000000
+ 11607 multiletter control sequences out of 15000+200000
+ 11798 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,8n,39p,2007b,447s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,17n,39p,2007b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/María/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmbx10.pfb><C:/Users/María/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmbx12.pfb><C:/Users/María/AppData/Local/Programs/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/María/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/María/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/User
-s/María/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/User
+s/María/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8
 .pfb><C:/Users/María/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmr12.pfb><C:/Users/María/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmr17.pfb><C:/Users/María/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/María/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/María/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users
-/María/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10
-.pfb><C:/Users/María/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmtt10.pfb>
-Output written on M6_Pozo_Montoro_Maria.pdf (11 pages, 308094 bytes).
+onts/cm/cmr10.pfb><C:/Users/María/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr12.pfb><C:/Users/María/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/María/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/María/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/M
+aría/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb
+><C:/Users/María/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><C:/Users/María/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy8.pfb><C:/Users/María/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/María/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on M6_Pozo_Montoro_Maria.pdf (15 pages, 549364 bytes).
 PDF statistics:
- 164 PDF objects out of 1000 (max. 8388607)
- 28 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 263 PDF objects out of 1000 (max. 8388607)
+ 63 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
